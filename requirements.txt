@@ -1,6 +1,5 @@
 transformers==4.34.0
 torch==2.4.0
-pillow>=9.0.0
 requests==2.31.0
 streamlit==1.25.0
 pypdf2==3.0.0
