@@ -1,0 +1,7 @@
+transformers==4.34.0
+torch==2.0.1
+pillow==9.5.0
+requests==2.31.0
+streamlit==1.25.0
+pypdf2==3.0.0
+python-docx==0.8.11
