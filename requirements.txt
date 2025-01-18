@@ -1,5 +1,5 @@
 transformers==4.34.0
-torch==2.0.1
+torch==2.4.0
 pillow==9.5.0
 requests==2.31.0
 streamlit==1.25.0
